@@ -24,7 +24,6 @@ The project leverages the **KDD Cup 1999 dataset** and applies multiple ML algor
 - **Programming Language:** Python  
 - **ML Libraries:** Scikit-learn, XGBoost, TensorFlow/Keras (optional), Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn  
-- **Traffic Analysis Tools:** Wireshark, PyShark  
 - **UI & Deployment:** Gradio, Google Colab  
 - **Version Control:** Git, GitHub  
 
