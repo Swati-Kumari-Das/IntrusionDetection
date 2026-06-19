@@ -22,7 +22,7 @@ The project leverages the **KDD Cup 1999 dataset** and applies multiple ML algor
 
 ## 🛠 Tech Stack  
 - **Programming Language:** Python  
-- **ML Libraries:** Scikit-learn, XGBoost, TensorFlow/Keras (optional), Pandas, NumPy  
+- **ML Libraries:** Scikit-learn, TensorFlow/Keras (optional), Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn  
 - **UI & Deployment:** Gradio, Google Colab  
 - **Version Control:** Git, GitHub  
